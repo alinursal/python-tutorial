@@ -1,7 +1,10 @@
-def main():
-    name="Ali Nursal"
-    age=40
-    summary="Build Python Apps"
-    print(name, age, summary)
+def main(): 
+    a=3 
+
+    ## Type your code here 
+    a+=4
+    a^=2
+
+    return a  
 
 main()
